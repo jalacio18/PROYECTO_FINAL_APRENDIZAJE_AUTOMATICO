@@ -1,0 +1,3 @@
+modelo,accuracy validación,accuracy prueba
+Regresión logística,0.786,0.779
+MLP,0.82,0.82

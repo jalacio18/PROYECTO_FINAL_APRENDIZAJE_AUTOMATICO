@@ -1,0 +1,6 @@
+modelo,MAE (€),RMSE (€),R² (euros),R² (log)
+Lineal · sin ubicación,86208.897,161180.827,0.786,0.809
+Lineal · con ubicación,80103.941,153690.311,0.805,0.839
+MLP · sin ubicación,71857.576,133564.126,0.853,0.867
+MLP · con ubicación,65791.357,128051.967,0.865,0.894
+MLP · con ubicación y algoritmo genético,65056.383,129836.297,0.861,0.896
